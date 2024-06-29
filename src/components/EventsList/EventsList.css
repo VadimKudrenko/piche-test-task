@@ -1,0 +1,29 @@
+.events-list__item--odd {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin: 5px 0;
+  background-color: #fbfbfb;
+}
+
+.events-list__item--even {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin: 5px 0;
+  background-color: #fff9e8;
+}
+
+.events-list__item-index {
+  width: 5%;
+}
+
+.events-list__item-year {
+  width: 5%;
+}
+
+.events-list__item-text {
+  padding: 0 10px;
+  text-align: left;
+  width: 90%;
+}

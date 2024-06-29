@@ -1,0 +1,24 @@
+.holidays-list__item--odd {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin: 5px 0;
+  background-color: #fbfbfb;
+}
+
+.holidays-list__item--even {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin: 5px 0;
+  background-color: #efffe0;
+}
+.holidays-list__item-index {
+  width: 5%;
+}
+
+.holidays-list__item-text {
+  width: 95%;
+  padding: 0 10px;
+  text-align: left;
+}

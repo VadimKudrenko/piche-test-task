@@ -1,3 +1,7 @@
+In my work I used a stack Typescript/React/Redux.
+Also used axios for request and react-window library to implement scrolling of list elements.
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).

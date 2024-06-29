@@ -1,5 +1,5 @@
-# In my work I used a stack Typescript/React/Redux.
-# Also used axios for request and react-window library to implement scrolling of list elements.
+## In my work I used a stack Typescript/React/Redux.
+## Also used axios for request and react-window library to implement scrolling of list elements.
 
 
 # Getting Started with Create React App
